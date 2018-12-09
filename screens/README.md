@@ -1,4 +1,3 @@
-Fork the repository to your remote, and then
 
 ```bash
 git clone https://github.com/shubhamdeol/newsApp NewsApp && cd NewsApp
